@@ -1,0 +1,37 @@
+ .course {
+     font-size: 17px;
+     font-weight: 600;
+ }
+ 
+ .coursetime {
+     display: block;
+     color: #999;
+ }
+ 
+ .numbering {
+     font-size: 17px;
+     font-weight: 600;
+     color: #3c8dbc;
+     display: inline-block;
+     margin-right: 5px;
+     vertical-align: top;
+     width: 30px;
+ }
+ 
+ .course-wrapper {
+     margin-left: 40px;
+ }
+ 
+ .title-course {
+     display: inline-block;
+     width:94%;
+ }
+ 
+ .ms-container {
+     width: 100%;
+     margin-bottom: 10px;
+ }
+ 
+ .search-input {
+     width: 100% !important;
+ }
